@@ -8,10 +8,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgoodminjeong&count_bg=%23448361&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
-
 <p>
-  <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api?username=goodminjeong&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&show_icons=true&title_color=448361&icon_color=448361">
-  <img height="180em" src="https://github-readme-stats-veggie-garden.vercel.app/api/top-langs/?username=goodminjeong&layout=compact&hide_border=true&langs_count=10&title_color=448361">
+  <img height="160em" src="https://github-readme-stats-veggie-garden.vercel.app/api?username=goodminjeong&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&show_icons=true&title_color=448361&icon_color=448361">
+  <img height="160em" src="https://github-readme-stats-veggie-garden.vercel.app/api/top-langs/?username=goodminjeong&layout=compact&hide_border=true&langs_count=10&title_color=448361">
 </p>
 <br>
 
